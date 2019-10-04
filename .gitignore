@@ -1,3 +1,7 @@
 *.egg-info
 *.pyc
 *.pyo
+venv/
+
+.idea/
+*.iml
